@@ -48,7 +48,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Introduction to NumPy
 
 ## Certificate
-![](Py_Certificate.png)
+![FATMA ÇELİK](Py_Certificate.png)
 
 
 
